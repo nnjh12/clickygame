@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "face1",
+    "image": "./img/face1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "face2",
+    "image": "./img/face2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "face3",
+    "image": "./img/face3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "face4",
+    "image": "./img/face4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "face5",
+    "image": "./img/face5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "face6",
+    "image": "./img/face6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "face7",
+    "image": "./img/face7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "face8",
+    "image": "./img/face8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "face9",
+    "image": "./img/face9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "face10",
+    "image": "./img/face10.jpg"
+  }
+]

@@ -69,12 +69,16 @@ class App extends React.Component {
   render() {
     return (
       <>
-        <Nav message="Clicky Game" />
+        <Nav 
+          message="Clicky Game"
+          score={this.state.score}
+          topScore={this.state.topScore}
+         />
         <Jumbo
           head="Clicky Game!"
           message={this.state.message}
-          score={this.state.score}
-          topScore={this.state.topScore}
+          // score={this.state.score}
+          // topScore={this.state.topScore}
         />
         <div className="container text-center">
           {this.state.images.map(element => (

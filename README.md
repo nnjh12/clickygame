@@ -8,4 +8,4 @@ Developed a game using HTML, JavaScript, CSS, and ReactJS.
 ## Play the game now!
 [Go to the game](https://nnjh12.github.io/ClickyGame/)</br>
 </br>
-[![preview](./assets/preview.png)](https://nnjh12.github.io/ClickyGame/)
+#[![preview](./assets/preview.png)](https://nnjh12.github.io/ClickyGame/)
